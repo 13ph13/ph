@@ -4,5 +4,3 @@ dist
 *.pem
 *.cer
 *.log
-password.txt
-ppp.tst
